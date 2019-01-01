@@ -1,7 +1,7 @@
 # PASS Summit 2018
 Repository for the PASS Summit data visualization talk. The final version of the pbix file can be found in the PASS_Summit_2018/PBIX folder. The Jupyter Notebook used in the session can be found in the root of this repository. The data set used in the Jupyter Notebook can be found in the PASS_Summit_2018/Data folder.
 
-I attempted to be verbose in my explanations in the jupyter notebook. If you have questions please reach me at questions@dieselanalytics.com and I will answer them as quickly as I am able to.
+I attempted to be verbose in my explanations in the jupyter notebook. If you have questions please reach me at info@dieselanalytics.com and I will answer them as quickly as I am able to.
 
 **Known limitations of R visuals in the Power BI desktoop ([Source Website](https://docs.microsoft.com/en-us/power-bi/desktop-r-visuals))**:
 
