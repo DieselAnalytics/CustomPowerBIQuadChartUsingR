@@ -1,7 +1,5 @@
 # PASS Summit 2018
-Repository for the PASS Summit data visualization talk. The final version of the pbix file can be found in the PASS_Summit_2018/PBIX folder. The Jupyter Notebook used in the session can be found in the root of this repository. The data set used in the Jupyter Notebook can be found in the PASS_Summit_2018/Data folder.
-
-I attempted to be verbose in my explanations in the jupyter notebook. If you have questions please reach me at info@dieselanalytics.com and I will answer them as quickly as I am able to.
+Repository for the PASS Summit data visualization talk. The final version of the pbix file can be found in the PASS_Summit_2018/PBIX folder. The Jupyter Notebook used in the session can be found in the root of this repository. The data set used in the Jupyter Notebook can be found in the PASS_Summit_2018/Data folder. You can go to this [link](https://docs.microsoft.com/en-us/power-bi/service-r-packages-support) to get a list of all of the R packages along with version that are available in the service. If you will like a tabular version of the list you can refer to the MS Excel workbook that is in the PASS_Summit_2018/RPackages folder. 
 
 **Known limitations of R visuals in the Power BI desktoop ([Source Website](https://docs.microsoft.com/en-us/power-bi/desktop-r-visuals))**:
 
@@ -26,3 +24,7 @@ I attempted to be verbose in my explanations in the jupyter notebook. If you hav
 - [Mico Yuk](http://bibrainz.com/aof/author/micoyuk/): Mico Yuk and her staff at BI Brainz provides great training on how to effectively use data visualization to tell amazing stories about your data.
 
 - In the near future I will be updating my [blog](https://dieselanalytics.com/) which has blogs that covers how to use R within Power BI. There will be future blogs covering how to use R within other areas of the Microsoft ecosystem. Be on the look out!
+
+**Questions**
+
+I attempted to be verbose in my explanations in the Jupyter notebook. If you have questions please reach me at info@dieselanalytics.com and I will answer them as quickly as I am able to.
